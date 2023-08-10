@@ -18,10 +18,10 @@ This comprehensive project involved several key stages, including data preproces
    
 ### 4. Visualization and Dashboard Design:
    Designed a multi-page dashboard to cater to different user needs.
-**i. Executive Dashboard:** Showcased key performance indicators (KPIs), revenue trends, monthly revenue, and top products for executive-level insights.
-**ii. Customer Details Page:** Utilized a variety of visualization tools, charts, and matrices to present in-depth customer-related data.
-**iii. Product Detail Page:** Enabled drill-through functionality to delve into specific sub-product information from the Executive Dashboard.
-**iv. Geospatial Visualization**: Created an interactive map with a slicer for continent selection to visualize sales data geographically.
+**i. Executive Dashboard:** Showcased key performance indicators (KPIs), revenue trends, monthly revenue, and top products for executive-level insights.<br>
+**ii. Customer Details Page:** Utilized a variety of visualization tools, charts, and matrices to present in-depth customer-related data.<br>
+**iii. Product Detail Page:** Enabled drill-through functionality to delve into specific sub-product information from the Executive Dashboard.<br>
+**iv. Geospatial Visualization**: Created an interactive map with a slicer for continent selection to visualize sales data geographically.<br>
 
 Through data processing, intricate modeling, and innovative visualization techniques, I successfully transformed raw data into actionable insights. This interactive Power BI dashboard serves as a powerful tool for the company to monitor performance, identify trends, and optimize sales strategies, ultimately contributing to improved business outcomes.
 
