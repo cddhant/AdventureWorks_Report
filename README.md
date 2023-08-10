@@ -17,7 +17,7 @@ This comprehensive project involved several key stages, including data preproces
    - Implemented a dedicated "Measures" table to house and manage the array of measures created (up to 15 measures).
    
 ### 4. Visualization and Dashboard Design:
-   Designed a multi-page dashboard to cater to different user needs.
+   Designed a multi-page dashboard to cater to different user needs.<br>
 **i. Executive Dashboard:** Showcased key performance indicators (KPIs), revenue trends, monthly revenue, and top products for executive-level insights.<br>
 **ii. Customer Details Page:** Utilized a variety of visualization tools, charts, and matrices to present in-depth customer-related data.<br>
 **iii. Product Detail Page:** Enabled drill-through functionality to delve into specific sub-product information from the Executive Dashboard.<br>
